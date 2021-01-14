@@ -1,0 +1,7 @@
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\bin\Debug\Rock paper scissors.exe.config
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\bin\Debug\Rock paper scissors.exe
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\bin\Debug\Rock paper scissors.pdb
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.csprojAssemblyReference.cache
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.csproj.CoreCompileInputs.cache
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.exe
+C:\Users\sujyo\source\repos\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.pdb
